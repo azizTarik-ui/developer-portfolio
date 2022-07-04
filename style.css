@@ -13,7 +13,7 @@ h1{
     margin-bottom: 150px;
 }
 .half-width{
-    width: 50%;
+    width: 80%;
     padding-left: 3%;
 }
 .experience-item{
@@ -21,10 +21,16 @@ h1{
     margin-left: 5%;
     margin-right: 5%;
     padding-left: 10px;
-    box-shadow: 10px 10px 40px gray;
+    box-shadow: 10px 10px 40px gray; 
+}
+#full-stack-developer{
+    border-left: 7px solid tomato;
+}
+#baby-web-developer{
+    border-left: 7px solid blue;
 }
 .half-width img{
-    width: 80%;
+    width: 50%;
 }
 .link-button{
     text-decoration: none;
